@@ -1,7 +1,7 @@
 {
   "name": "angular-justified-gallery",
   "main": [
-    "angular-justified-gallery.js",
+    "angular-justified-gallery.js"
   ],
   "ignore": [
   ],
@@ -11,18 +11,14 @@
   "devDependencies": {
     "angular": "~1.5.8",
     "justifiedGallery": "~3.6.3",
-    "jquery-colorbox": "~1.6.4",
-  },
-  "resolutions": {
-    
-    "angular": "~1.5.8"
+    "jquery-colorbox": "~1.6.4"
   },
   "keywords": [
     "angular-justified-gallery",
-    "angular-gallery",
+    "angular-gallery"
   ],
   "authors": [
     "Jayesh Bhalodia <jsbhalodia.dev@gmail.com>"
   ],
-  "license": "MIT",
+  "license": "MIT"
 }
