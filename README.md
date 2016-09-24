@@ -1,10 +1,6 @@
 Angular Justified Gallery
 =========================
 
-The idea is simple: Add a loading bar / progress bar whenever an XHR request goes out in angular.  Multiple requests within the same time period get bundled together such that each response increments the progress bar by the appropriate amount.
-
-This is mostly cool because you simply include it in your app, and it works.  There's no complicated setup, and no need to maintain the state of the loading bar; it's all handled automatically by the interceptor.
-
 **Requirements:** AngularJS 1.2+
 
 
