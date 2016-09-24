@@ -2,6 +2,8 @@ Angular Justified Gallery
 =========================
 
 **Requirements:** AngularJS 1.2+
+**Requirements:** Jquery 1.3.2+
+**Requirements:** Justified Gallery 3.6.0+
 
 
 ## Usage:
@@ -57,7 +59,7 @@ $scope.productImages = [{
 ```
 
 ## Credits:
-Credit goes to [Miro Mannino](https://github.com/miromannino) for his excellent [Justified-Gallery](https://github.com/miromannino/Justified-Gallery) and [Jack Moore](https://github.com/jackmoore) for his excellent [colorbox](https://github.com/jackmoore/colorbox).
+Credit goes to [Miro Mannino](https://github.com/miromannino) for his excellent [Justified-Gallery](https://github.com/miromannino/Justified-Gallery) and [Jack Moore](https://github.com/jackmoore) for his awesome [colorbox](https://github.com/jackmoore/colorbox).
 
 ## License:
 Licensed under the MIT license
